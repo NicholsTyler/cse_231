@@ -2,5 +2,5 @@
 #   		Basra Card Game		       #
 ################################################
 
-Instructions are explained when the code is run!
-Program was orignally created for CSE 231 at MSU
+Open the "Build" folder and run "proj10.exe"
+Program was originally created for CSE 231 at MSU
